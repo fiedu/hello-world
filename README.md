@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+
+Hello :)
+
+My name is Matthew and I want to be programmer!
